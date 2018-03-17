@@ -7,8 +7,8 @@
 
 # config with your backend server
 
-```backend-server github repo
-[Nodejs server repo to generate tokens](https://github.com/saigowthamr/Jwt-Authentication-Nodejs-)
+
+[Nodejs server repo to generate jwt-tokens](https://github.com/saigowthamr/Jwt-Authentication-Nodejs-)
 
 ## start
 npm start
